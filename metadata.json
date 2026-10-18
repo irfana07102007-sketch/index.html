@@ -1,0 +1,6 @@
+{
+  "name": "MediRoute AI – Emergency Hospital Bed & Ambulance Allocation System",
+  "description": "AI-Powered Hospital Bed and Ambulance Allocation System with Emergency Readiness Prediction, Live Traffic Rerouting, and Disaster Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
